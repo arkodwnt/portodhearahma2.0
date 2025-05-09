@@ -5,7 +5,7 @@ import { Experience } from './components/Experience/Experience';
 import { Hero } from './components/Hero/Hero';
 import { Navbar } from './components/Navbar/Navbar';
 import { Projects } from './components/Projects/Projects';
-import { Penghargaan } from './components/Penghargaan/penghargaan';
+import { Penghargaan } from './components/Penghargaan/Penghargaan';
 
 function App() {
   return (
